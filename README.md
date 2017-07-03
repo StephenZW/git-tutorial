@@ -9,4 +9,6 @@ master分支，这正是在开发中创建分支的优点。只要创建多个�
 in branch feature-A
 
 This is feature-B branch
+This is feature-C branch
+This is Feature-C branch
 
